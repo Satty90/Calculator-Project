@@ -5,14 +5,14 @@
 body {
   padding: 0;
   margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 .calc {
   border: 2px solid;
-  position: absolutes;
-  top: 50%;
-  left: 50%;
-
   padding: 10px;
   width: 400px;
   background-color: black;
